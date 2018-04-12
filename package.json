@@ -1,0 +1,11 @@
+{
+  "name": "playing-postman",
+  "version": "1.0.0",
+  "description": "A game to understand what can be done with Postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nandhitha Kamal",
+  "license": "ISC"
+}
